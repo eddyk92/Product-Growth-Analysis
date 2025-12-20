@@ -16,7 +16,7 @@ Key tables:
 
 ---
 
-## 🎯 What I’ll Practice
+## What I’ll Practice
 These questions cover end-to-end product + growth analytics:
 
 ### **Core Revenue Metrics**
